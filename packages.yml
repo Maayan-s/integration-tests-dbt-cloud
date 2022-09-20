@@ -1,2 +1,2 @@
 packages:
-  - git: "https://github.com/Maayan-s/integration-tests-dbt-cloud"
+  - git: "https://github.com/Maayan-s/dbt-data-reliability"
